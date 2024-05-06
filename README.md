@@ -1,4 +1,4 @@
-![alt text](https://github.com/annieclinton/movies/blob/main/movieLogbookSmall.png))
+![alt text](https://github.com/annieclinton/movies/blob/main/movieLogbookSmall.png)
 
 # Movie Logbook
 This fullstack web application allows users to log and track horror movies they've watched, including details like the movie title, main actor, and how much they liked it. 
